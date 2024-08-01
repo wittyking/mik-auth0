@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-    Hello Witty
+    <a href="/api/auth/login">Login</a>
     </>
   );
 }
